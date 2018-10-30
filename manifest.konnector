@@ -92,5 +92,6 @@
       }
     }
   },
+  "banksTransactionRegExp": "\\bopngo\\b",
   "manifest_version": "2"
 }

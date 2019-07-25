@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "name": "Opngo",
   "type": "konnector",
   "language": "node",
   "icon": "icon.svg",
   "slug": "opngo",
-  "source": "git://github.com/konnectors/opngo.git",
+  "source": "git@github.com:konnectors/opngo.git",
   "editor": "Cozy",
   "vendor_link": "https://www.opngo.com/",
   "categories": [
